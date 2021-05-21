@@ -7253,7 +7253,7 @@ a.text-dark:hover, a.text-dark:focus {
 
 @font-face {
   font-family: "moon";
-  src: url("/fonts/moon.woff") format("woff2"), url("/fonts/moon.woff") format("woff"); }
+  src: url(../fonts/moon.woff) format("woff2"), url(../fonts/moon.woff) format("woff"); }
 
 h1, h2, h3, h4, h5, h6, p, caption {
   font-family: "moon"; }
